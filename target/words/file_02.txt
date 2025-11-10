@@ -1,0 +1,1 @@
+Hola python mpi comunicación paralela python hola mundo
