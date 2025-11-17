@@ -2,7 +2,7 @@ import os
 import random
 
 def generar_textos_español(
-    num_files=20,
+    num_files=100,
     min_words=90_000,
     max_words=100_000,
     word_list_path="spanish_words.info"
